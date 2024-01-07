@@ -98,6 +98,7 @@ For all of this, it is best to play around and see what you can do and what you 
 
 
 ## Acknowledgements
+Technologies
 - [Slick Carousel](https://kenwheeler.github.io/slick/)
 
 Demo Photos from Unsplash
