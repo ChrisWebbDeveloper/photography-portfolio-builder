@@ -23,7 +23,7 @@
 
 
 ## About The Project
-![photography-portfolio-builder](https://user-images.githubusercontent.com/19428849/130439247-c23ab418-2558-440a-8b7f-a1d0ddff3350.jpg)
+![photography-portfolio-builder](https://github.com/ChrisWebbDeveloper/photography-portfolio-builder/assets/19428849/230256f4-44ab-45ec-b44b-1d20dfe9a46d)
 
 This is a template for a portfolio website, providing portfolios that can be arranged, resized and configured as the user requires into various categories. Photos can be uploaded, details provided and displayed throughout. Portfolios can be made by users, published, privatised and given a password to hide as need be, giving the user the ability to provide password-protected links to portfolios. A home carousel is also provided, as well as featured portfolios.
 
